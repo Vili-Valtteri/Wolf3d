@@ -1,6 +1,3 @@
-## Upcoming Changes
-
-Sources for the project will be added on 14.2.2023. Stay tuned!
 
 # Wolf3D
 
@@ -38,9 +35,13 @@ In Wolf3D, you control a character navigating through a maze-like environment, f
 
 ## Screenshots
 
-(Upcoming Changes)
+<img width="700" alt="wolfed1" src="https://user-images.githubusercontent.com/86079441/218750823-f487e454-094d-4165-a6ee-2f8c3137733d.png">
 
-Screenshots for the project will be added on 14.2.2023. Stay tuned!
+<img width="700" alt="wolfed2" src="https://user-images.githubusercontent.com/86079441/218750411-69bdb408-d942-45d2-8272-87074be4b6ee.png">
+
+<img width="700" alt="wolfed3" src="https://user-images.githubusercontent.com/86079441/218750437-364c2069-fbff-42de-99ab-35d459c13860.png">
+
+<img width="700" alt="wolfed4" src="https://user-images.githubusercontent.com/86079441/218750870-2c7e1717-22d3-475c-97bd-9e46506c61a8.png">
 
 ## Built With
 
